@@ -1,0 +1,38 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/dist
+
+# dotenv environment variable files
+.env
+.env.test
+.env.example
+.env.development
+.env.production
+
+# IDEs and editors
+/.idea
+/.vscode
+/.cache
+/.DS_Store
+/.gitignore.local
+/.npmrc
+/.yarn-integrity
+/.yarnrc
+/.pnp.cjs
+/.yarn/cache
+/.yarnrc.yml
+
+# misc
+/.env.local
+/.env.local.test
+/.env.development.local
+/.env.production.local
+/.env.test.local
+/.next
+.vercel
+.env.local
